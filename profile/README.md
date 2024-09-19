@@ -1,7 +1,7 @@
 <p align="center"><img width="300"  src="https://i.ibb.co/CtzP6Dn/logo-r-Agri-Sync-Clear.png">
 <h1 align= "center">Dev Group of AgriSync Company</h1>
 </p>
-<img src="https://i.ibb.co/CtzP6Dn/logo-r-Agri-Sync-Clear.pnghttps://i.ibb.co/sgMTMMV/Screenshot-3.png"></img>
+<img src="https://i.ibb.co/0Bd6w8q/Screenshot-3.png"></img>
 
 <h1>Getting Started 🚀</h1>
 <p>Kick-start your Kubernetes deployment journey with Devtron</p>
