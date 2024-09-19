@@ -1,4 +1,4 @@
-<p align="center"><img width="300"  src="https://raw.githubusercontent.com/devtron-labs/.github/main/assets/devtron.png">
+<p align="center"><img width="300"  src="https://ibb.co/yWkNfBf">
 <h1 align= "center">Tool integration platform for Kubernetes</h1>
 </p>
 <img src="https://raw.githubusercontent.com/devtron-labs/.github/main/assets/devtron-feat-glance.png"></img>
