@@ -3,15 +3,10 @@
 </p>
 <img src="https://i.ibb.co/0Bd6w8q/Screenshot-3.png"></img>
 
-<h1>Getting Started 🚀</h1>
-<p>Kick-start your Kubernetes deployment journey with Devtron</p>
+<h1>Overview 🚀</h1>
+<p>The AgriSync Marketplace is an extension of AgriSync's core services, designed to enhance the agricultural support ecosystem. It connects farmers with various agricultural advisors and service providers, facilitating a more efficient exchange of knowledge and resources.
 
-<ul>
-    <li>Checkout Documentation - <a href="https://docs.devtron.ai/" target="_blank"><strong>docs.devtron.ai</strong></a></li>
-    <li>HandsOn Environment - <a href="https://preview.devtron.ai/dashboard/" target="_blank"><strong>preview.devtron.ai</strong></a></li>
-    <li>Website - <a href="https://devtron.ai/" target="_blank"><strong>devtron.ai</strong></a></li>
-    <li>Devtron Blogs - <a href="https://devtron.ai/blog/" target="_blank"><strong>devtron.ai/blog</strong></a></li>
-    <li>Twitter - <a href="https://twitter.com/DevtronL" target="_blank"><strong>@DevtronL</strong></a></li>
-</ul>
+<h1>Importance in Agriculture 🎯</h1>
+<p>The AgriSync plays a crucial role in modernizing agricultural practices by leveraging technology to connect farmers with the expertise they need. This integration of services helps address prevalent challenges in farming, ultimately aiming to improve </p>
 <br>
-<p>Feel free to join our <a href="https://discord.gg/jsRG5qx2gp" target="_blank"><strong>Community Discord Server</strong></a></p>
+<p>Feel free to contact our info@agrisync.tech <strong>company</strong></a></p>
