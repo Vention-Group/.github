@@ -9,4 +9,4 @@
 <h1>Importance in Agriculture 🎯</h1>
 <p>The AgriSync plays a crucial role in modernizing agricultural practices by leveraging technology to connect farmers with the expertise they need. This integration of services helps address prevalent challenges in farming, ultimately aiming to improve </p>
 <br>
-<p>Feel free to contact our <a href="mailto:info@agrisync.tech" target="_blank"><strong>company</strong></a></p>
+<p>Feel free to contact our <a href="mailto:info@agrisync.tech" target="_blank"><strong>Company</strong></a></p>.
