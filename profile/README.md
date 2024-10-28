@@ -1,12 +1,12 @@
-<p align="center"><img width="300"  src="https://i.ibb.co/CtzP6Dn/logo-r-Agri-Sync-Clear.png">
-<h1 align= "center">Dev Group of AgriSync Company</h1>
+<h1 align= "center">Dev Group of Ventions Company</h1>
 </p>
-<img src="https://i.ibb.co/0Bd6w8q/Screenshot-3.png"></img>
+<img src="https://i.ibb.co/Hdv68xV/demo.png"></img>
 
 <h1>Overview 🚀</h1>
-<p>The AgriSync Marketplace is an extension of AgriSync's core services, designed to enhance the agricultural support ecosystem. It connects farmers with various agricultural advisors and service providers, facilitating a more efficient exchange of knowledge and resources.
+<p>Our Company is well vast in software development and is ready to help develop the applications of your choice.
+We take responsibility for building custom software solutions that caters for automation of your business processes and improve efficiency.
 
-<h1>Importance in Agriculture 🎯</h1>
-<p>The AgriSync plays a crucial role in modernizing agricultural practices by leveraging technology to connect farmers with the expertise they need. This integration of services helps address prevalent challenges in farming, ultimately aiming to improve </p>
+<h1>Importance in Software Development 🎯</h1>
+<p>With over 10 years experience in software analysis and design and a deep understanding of the latest IT trends and solutions, we provide customized recommendations and strategies to help you improve your operations, reduce costs, and increase efficiency.</p>
 <br>
-<p>Feel free to contact our <a href="mailto:info@agrisync.tech" target="_blank"><strong>Company</strong></a>.</p>
+<p>Feel free to contact our <a href="mailto:devteam@ventionss.tech" target="_blank"><strong>Company</strong></a>.</p>
