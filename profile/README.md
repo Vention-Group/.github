@@ -1,6 +1,6 @@
 <h1 align= "center">Dev Group of GGLab</h1>
 </p>
-<img src="https://i.ibb.co/C3NyW7vw/1737995409318-2.jpg"></img>
+<img src="https://i.ibb.co/G18wD8C/one.png"></img>
 
 <h1>Overview 🚀</h1>
 <p>Our Company is well vast in software development and is ready to help develop the applications of your choice.
